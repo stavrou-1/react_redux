@@ -1,0 +1,17 @@
+.counter {
+    border: 0.1em solid gray;
+    max-width: 10em;
+    margin: 3em auto;
+    padding: 3em;
+    color: gray;
+}
+
+.counter button {
+    border: 0.1em solid gray;
+    font-size: 1.2em;
+    color: gray;
+    margin: 0.7em;
+    width: 2em;
+    height: 2em;
+    cursor: pointer;
+}
